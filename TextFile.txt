@@ -5,3 +5,6 @@ This is my first statement
 2) addind second line for second mearge
 
 4) Adding second line for conflict 2. Second line in same file.
+
+3) Adding line in TextFile for Conflict .   First Line
+
