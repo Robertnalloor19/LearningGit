@@ -3,3 +3,5 @@ This is my first statement
 1) added new text for merge
 
 2) addind second line for second mearge
+
+4) Adding second line for conflict 2. Second line in same file.
