@@ -10,3 +10,5 @@ This is my first statement
 
 5) Add another line to push the code to Remote
 
+6) Updating file from new location
+
