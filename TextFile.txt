@@ -8,3 +8,5 @@ This is my first statement
 
 3) Adding line in TextFile for Conflict .   First Line
 
+5) Add another line to push the code to Remote
+
